@@ -1,0 +1,64 @@
+POST http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: Application/json
+Cache-Control: no-cache
+
+<> 2024-01-11T114536.200.json
+
+###
+
+POST http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: Application/json
+Cache-Control: no-cache
+
+<> 2024-01-11T104521.200.json
+
+###
+
+POST http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: Application/json
+Cache-Control: no-cache
+
+<> 2024-01-11T104439.200.json
+
+###
+
+POST http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: Application/json
+Cache-Control: no-cache
+
+<> 2024-01-11T104334.200.json
+
+###
+
+POST http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: Application/json
+Cache-Control: no-cache
+
+<> 2024-01-11T103518.200.json
+
+###
+
+POST http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2024-01-11T103433.200.json
+
+###
+
+POST http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2024-01-11T103408.200.json
+
+###
+
+POST http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2024-01-11T103323.200.json
+
+###
+
